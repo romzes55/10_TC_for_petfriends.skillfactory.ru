@@ -1,4 +1,4 @@
-# 10_TC_for_petfriends.skillfactory.ru
+# 10 тестов для сайта https://petfriends.skillfactory.ru
 Практическая работа в которой нужно написать 10 тестов для сайта https://petfriends.skillfactory.ru  
 Файл **setting** содержит правильные/неправильные пароли для тестов  
 Файл **api** содержит методы для реализации тестов  
